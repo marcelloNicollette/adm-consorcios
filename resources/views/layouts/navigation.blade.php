@@ -6,7 +6,7 @@
                 <!-- Logo -->
                 <div class="shrink-0 flex items-center">
                     <a href="{{ route('dashboard') }}">
-                        <x-application-logo class="block h-10 w-auto fill-current text-gray-600" />
+                        <img src="https://caoaconsorcios.com.br/themes/default/assets/img/favicon.ico" alt="">
                     </a>
                 </div>
 
